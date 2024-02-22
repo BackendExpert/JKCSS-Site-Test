@@ -1,3 +1,6 @@
+.main-container{
+    display: flex;
+}
 aside{
-    width: 50%;
+    width: 15%;
 }
