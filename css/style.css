@@ -1,3 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .main-frame{
     width: 100%;
+}
+.side-bar{
+    background-color: blueviolet;
+    height: 100%;
+}
+.side-bar ul{
+    padding: 50px 20px;
+    list-style-type: none;
+}
+.side-bar ul li{
+    padding: 10px;
+}
+.side-bar ul li a{
+    color: white;
+    text-decoration: none;
 }
